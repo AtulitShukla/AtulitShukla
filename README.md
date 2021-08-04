@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AtulitShukla
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at atulitshukla@gmail.com
 
 <!---
